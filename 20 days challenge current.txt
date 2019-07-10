@@ -1,0 +1,40 @@
+
+Hello guys!
+
+20 days design and code challenge begins tomorrow 11th July, 2019.
+
+This project is aimed at enhancing your coding and design skills for the next 20 days.
+
+You will be working on a project each day till the 20 days ellapse.
+
+
+* Requirement
+ => Must have github account
+ => Must know atleast HTML CSS & Javascript
+ => must be willing to code everyday for the next 20 days.
+ => post your work on social media and tags us with the following hashtags #20DaysDesign&CodeChallenge,
+    #SelfDevelopment, #WeAreTheRoothub
+
+* tools you can use for the project
+  => text editor
+  => photoshop
+  => draw.io
+  => Corel Draw
+  => codepen.io ..etc
+	
+* technologies 
+ => HTML
+ => CSS
+ => Bootstrap // optional
+ => Javascript
+ => JQuery // optional
+
+* rules
+ => Starting form day1 to day20, you will clone/download the project for each day from our github repository https://github.com/ubbymuffy/admin-20days-design-and-code-challenge
+ => create a new github repository and name it "20-Days-Design-and-Code-Challenge";
+ => upload your project everyday on your git repo.
+ => post your project on social media everyday, including the link to your repository.
+
+* what you will gain from this challenge
+ => the person with the best project will be offered 1 month intentship at the Hub
+ => self development
